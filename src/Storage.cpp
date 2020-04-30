@@ -36,17 +36,17 @@ void Storage::fillItUp(int count_books, int count_audiobooks, int count_videogam
 
 }
 
-bool Storage::borrow(int ID) {
+Borrowable* Storage::getItem(int ID) {
     if(allItems.find(ID)!=allItems.end())
     {
         if(allItems.at(ID)->how_many_are_borrowed< allItems.at(ID)->how_many_are_available)
         {
             allItems.at(ID)->how_many_are_borrowed++;
-            return true;
+            return allItems.at(ID);
         }
-        return false;
+        return nullptr;
     }
-    return false;
+    return nullptr;
 }
 
 void Storage::placeBack(int ID) {

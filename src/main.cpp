@@ -1,16 +1,37 @@
 #include <iostream>
 #include <fstream>
-#include "Storage.h"
+#include "Library.h"
+#include "Person.h"
 
 int main() {
-    NameGenerator gen("../data/words.txt");
 
-    Storage st;
-    st.fillItUp(10000,1000,1000,12);
+    Library lib;
+    std::cout << lib.isAvailableByAuthor("TestAuthor") << std::endl;
 
-    std::cout <<st.isAvailableByName("TestBook") << std::endl;
-    std::cout <<st.isAvailableByAuthor("TestAuthor") << std::endl;
+    NameGenerator gen("../data/names.txt");
+    std::vector<Person> persons;
+    for(int x=0;x<30;x++)
+    {
+        persons.emplace_back(Person(gen.generateDopeName(2),rand()%RAND_MAX));
+    }
 
-    st.spill();
+    for(auto& per:persons)
+        if(rand()%10>5)
+            lib.registerCustomer(per);
+
+    for(auto& per:persons)
+        lib.borrow(rand()%lib.getStockAmount(),per);
+
+    for(auto& per:persons)
+    {
+        for(auto& slot:per.slots)
+            if(slot!= nullptr)
+                std::cout << per.m_name << " has following item with him/her: " << slot->m_name << std::endl;
+    }
+
+    for (auto& per:persons)
+        lib.giveBack(per);
+
+    // lib.spill();
     return 0;
 }
