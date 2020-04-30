@@ -56,7 +56,12 @@ void Library::deregisterCustomer(Person &person) {
         for(auto& cust:customers)
         {
             if(&person==cust)
+            {
+                std::cout << person.m_name << " deregistered from the lib" << std::endl;
                 customers.erase(customers.begin()+iterator);
+                return;
+            }
+
             iterator++;
         }
     }

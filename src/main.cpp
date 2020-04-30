@@ -6,7 +6,7 @@
 int main() {
 
     Library lib;
-    std::cout << lib.isAvailableByAuthor("TestAuthor") << std::endl;
+    //std::cout << lib.isAvailableByAuthor("TestAuthor") << std::endl;
 
     NameGenerator gen("../data/names.txt");
     std::vector<Person> persons;
@@ -20,7 +20,8 @@ int main() {
             lib.registerCustomer(per);
 
     for(auto& per:persons)
-        lib.borrow(rand()%lib.getStockAmount(),per);
+        for(int x=0;x<rand()%4;x++)
+            lib.borrow(rand()%lib.getStockAmount(),per);
 
     for(auto& per:persons)
     {
@@ -31,6 +32,10 @@ int main() {
 
     for (auto& per:persons)
         lib.giveBack(per);
+
+    for(auto& per:persons)
+        if(rand()%10>5)
+            lib.deregisterCustomer(per);
 
     // lib.spill();
     return 0;

@@ -14,7 +14,6 @@ NameGenerator::NameGenerator(std::string filename) {
         }
         file.close();
     }
-    std::cout << "name gen " << names.size() << " names to choose from" <<std::endl;
 }
 
 std::string NameGenerator::generateDopeName(int how_many_words) {
