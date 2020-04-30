@@ -10,7 +10,7 @@ int main() {
 
     NameGenerator gen("../data/names.txt");
     std::vector<Person> persons;
-    for(int x=0;x<30;x++)
+    for(int x=0;x<10;x++)
     {
         persons.emplace_back(Person(gen.generateDopeName(2),rand()%RAND_MAX));
     }
