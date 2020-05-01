@@ -14,6 +14,8 @@ give back, and deregister
 
 -Fast record search via std::map
 
+-Listing of all Items and Transactions
+
 ## Structure
 
 ![OUTPUT](docs/Library.png)
