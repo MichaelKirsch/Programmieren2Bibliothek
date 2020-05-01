@@ -5,6 +5,7 @@
 
 NameGenerator::NameGenerator(std::string filename) {
     srand(time(NULL));
+    std::ifstream file;
    file.open(filename);
     if (file.is_open()) {
         std::string line;

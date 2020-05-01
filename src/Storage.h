@@ -18,14 +18,14 @@ public:
     ~Storage() = default;
 
 private:
-    std::vector<std::string>BookGenres{"Fantasy","Adventure","Romance","Contemporary","Dystopian","Mystery","Horror","Thriller"};
     NameGenerator booknamegen, authornamegen;
     std::vector<Book> m_books;
     std::vector<AudioBook> m_audiobooks;
     std::vector<VideoGame> m_videogames;
-    std::map<int,Borrowable*> allItems;
+
     int globalIDcounter=0;
 protected:
+    std::map<int,Borrowable*> allItems;
     Borrowable* getItem(int ID);
     void placeBack(int ID);
 };

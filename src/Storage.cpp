@@ -39,9 +39,9 @@ void Storage::fillItUp(int count_books, int count_audiobooks, int count_videogam
 Borrowable* Storage::getItem(int ID) {
     if(allItems.find(ID)!=allItems.end())
     {
-        if(allItems.at(ID)->how_many_are_borrowed< allItems.at(ID)->how_many_are_available)
+        if(allItems.at(ID)->m_borrowed < allItems.at(ID)->m_inStock)
         {
-            allItems.at(ID)->how_many_are_borrowed++;
+            allItems.at(ID)->m_borrowed++;
             return allItems.at(ID);
         }
         return nullptr;
@@ -52,14 +52,14 @@ Borrowable* Storage::getItem(int ID) {
 void Storage::placeBack(int ID) {
     if(allItems.find(ID)!=allItems.end())
     {
-        allItems.at(ID)->how_many_are_borrowed--;
+        allItems.at(ID)->m_borrowed--;
     }
 }
 
 bool Storage::isAvailableByID(int ID){
     if(allItems.find(ID)!=allItems.end())
     {
-        if(allItems.at(ID)->how_many_are_borrowed< allItems.at(ID)->how_many_are_available)
+        if(allItems.at(ID)->m_borrowed < allItems.at(ID)->m_inStock)
         {
             return true;
         }

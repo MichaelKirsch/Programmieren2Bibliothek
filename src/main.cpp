@@ -10,7 +10,7 @@ int main() {
 
     NameGenerator gen("../data/names.txt");
     std::vector<Person> persons;
-    for(int x=0;x<10;x++)
+    for(int x=0;x<100;x++)
     {
         persons.emplace_back(Person(gen.generateDopeName(2),rand()%RAND_MAX));
     }
@@ -23,20 +23,21 @@ int main() {
         for(int x=0;x<rand()%4;x++)
             lib.borrow(rand()%lib.getStockAmount(),per);
 
-    for(auto& per:persons)
-    {
-        for(auto& slot:per.slots)
-            if(slot!= nullptr)
-                std::cout << per.m_name << " has following item with him/her: " << slot->m_name << std::endl;
-    }
+    lib.listNotGivenBackItems();
 
     for (auto& per:persons)
         lib.giveBack(per);
+
+
+    lib.listNotGivenBackItems();
 
     for(auto& per:persons)
         if(rand()%10>5)
             lib.deregisterCustomer(per);
 
     // lib.spill();
+
+    lib.listAllItemsEverBorrowed();
+
     return 0;
 }
