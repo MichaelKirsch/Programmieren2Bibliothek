@@ -6,11 +6,11 @@
 
 struct Record
 {
-    Record(Person* i_pers,int i_ID ,int recNbr): person_that_borrowed(i_pers),
-    ID_that_was_boorowed(i_ID),recordNbr(recNbr){}
-    Person* person_that_borrowed;
-    int ID_that_was_boorowed=0;
-    bool was_given_back=false;
+    Record(Person* i_pers,int i_ID ,int recNbr): person(i_pers),
+                                                 ID_borrowed(i_ID), recordNbr(recNbr){}
+    Person* person;
+    int ID_borrowed=0;
+    bool givenBack=false;
     const int recordNbr;
 };
 
@@ -27,10 +27,9 @@ public:
 
 private:
     int globalRecordCounter =0;
-    bool customerCheck(Person& persToCheck);
+    bool checkIfCustomer(Person& persToCheck);
     std::vector<Person*> customers;
     std::map<int,Record> recordsOfAllTransactions;
-protected:
 };
 
 

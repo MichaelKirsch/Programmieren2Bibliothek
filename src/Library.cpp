@@ -9,14 +9,14 @@ Library::Library() {
 
 void Library::registerCustomer(Person &person) {
     for(auto& alreadyReg: customers)
-        if(customerCheck(person))
+        if(checkIfCustomer(person))
             return;
     customers.emplace_back(&person);
     std::cout << person.m_name << " registered at the lib" << std::endl;
 }
 
 void Library::borrow(int ID, Person &person) {
-    if(customerCheck(person))
+    if(checkIfCustomer(person))
     {
         for(auto& slot:person.slots)
             if(slot.second == nullptr)
@@ -35,13 +35,13 @@ void Library::borrow(int ID, Person &person) {
 }
 
 void Library::giveBack(Person &person) {
-    if(customerCheck(person))
+    if(checkIfCustomer(person))
     {
         std::cout << person.m_name << " gave all items back" << std::endl;
         for(auto& item:person.slots)
             if(item.second!= nullptr)
             {
-                recordsOfAllTransactions.at(item.first).was_given_back = true; // clear the record
+                recordsOfAllTransactions.at(item.first).givenBack = true; // clear the record
                 placeBack(item.second->m_ID);
                 item.second = nullptr;
                 item.first=-1;
@@ -49,7 +49,7 @@ void Library::giveBack(Person &person) {
     }
 }
 
-bool Library::customerCheck(Person &persToCheck) {
+bool Library::checkIfCustomer(Person &persToCheck) {
     for(auto& cust:customers)
         if(&persToCheck==cust)
             return true;
@@ -57,7 +57,7 @@ bool Library::customerCheck(Person &persToCheck) {
 }
 
 void Library::deregisterCustomer(Person &person) {
-    if(customerCheck(person))
+    if(checkIfCustomer(person))
     {
         int iterator =0;
         for(auto& cust:customers)
@@ -76,10 +76,10 @@ void Library::deregisterCustomer(Person &person) {
 void Library::listNotGivenBackItems() {
     for(auto& rec:recordsOfAllTransactions)
     {
-        if(!rec.second.was_given_back)
+        if(!rec.second.givenBack)
         {
-            std::cout << rec.second.person_that_borrowed->m_name << " did not give back "
-                      << allItems.at(rec.second.ID_that_was_boorowed)->m_name<< std::endl;
+            std::cout << rec.second.person->m_name << " did not give back "
+                      << allItems.at(rec.second.ID_borrowed)->m_name << std::endl;
         }
     }
 }
@@ -87,7 +87,7 @@ void Library::listNotGivenBackItems() {
 void Library::listAllItemsEverBorrowed() {
     for(auto& rec:recordsOfAllTransactions)
     {
-            std::cout <<"Record: "<< rec.second.person_that_borrowed->m_name << " borrowed "
-                      << allItems.at(rec.second.ID_that_was_boorowed)->m_name<< std::endl;
+            std::cout << "Record: " << rec.second.person->m_name << " borrowed "
+                      << allItems.at(rec.second.ID_borrowed)->m_name << std::endl;
     }
 }
