@@ -16,7 +16,7 @@ give back, and deregister
 
 ## Structure
 
-![OUTPUT](docs/Library.PNG)
+![OUTPUT](docs/Library.png)
  
 ## Output
 
