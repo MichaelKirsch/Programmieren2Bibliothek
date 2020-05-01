@@ -6,7 +6,7 @@ give back, and deregister
 
 ## Features
 
--Fully scalable 
+-Fully scaleable 
 
 -Complete record of all transactions
 
