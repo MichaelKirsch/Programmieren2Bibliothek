@@ -1,5 +1,6 @@
 
 
+
 #include "Storage.h"
 
 void Storage::fillItUp(int count_books, int count_audiobooks, int count_videogames, int maxcount_of_item) {
@@ -104,20 +105,21 @@ int Storage::getAmount(int ID) {
     {
         return allItems.at(ID)->m_inStock;
     }
+    return -1;
 }
 
 std::vector<Borrowable *> Storage::getAllPubOfYear(int year) {
-    auto test = std::pair(year, nullptr);
     std::vector<Borrowable *> to_return;
-    std::multimap <int,Borrowable*> :: iterator itr;
-    for(itr = publicationYearContainer.lower_bound(year); itr!=publicationYearContainer.upper_bound(year); ++itr)
+    for(auto itr = publicationYearContainer.lower_bound(year); itr!=publicationYearContainer.upper_bound(year); ++itr)
         to_return.emplace_back(itr->second);
     return to_return;
 }
 
 void Storage::printAllPubofYear(int year) {
+    auto start = std::chrono::high_resolution_clock::now();
     auto t = getAllPubOfYear(year);
-    std::cout << "Lsiting all "<< t.size() << " Books of year " << year << ":" << std::endl;
+    auto duration  = std::chrono::duration_cast<std::chrono::microseconds>(std::chrono::high_resolution_clock::now() - start).count();
+    std::cout << "Listing all "<< t.size() << " Books of year " << year << "\n Search took:" << duration<<" microseconds" << std::endl;
     int iterator = 1;
     for(auto& s:t)
     {

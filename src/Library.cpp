@@ -96,6 +96,7 @@ void Library::listAllItemsEverBorrowed() {
 Person *Library::getCustomerByPassportID(int id) {
     if(customersbyID.find(id)!=customersbyID.end())
         return customersbyID.at(id);
+    return nullptr;
 }
 
 void Library::write_transactions_to_file() {

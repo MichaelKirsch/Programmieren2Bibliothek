@@ -1,47 +1,55 @@
-Record:0 | Customer:Hagar Eleen  | Publication:Leclaire hellhag Lynnworth 
-Record:1 | Customer:Hagar Eleen  | Publication:murre saintish antigorite 
-Record:2 | Customer:Lucas Shelden  | Publication:asymtote 
-Record:3 | Customer:Ethelred Ancelin  | Publication:red-roan circumpentagon 
-Record:4 | Customer:Shanleigh Adkins  | Publication:dreary-minded Gillette 
-Record:5 | Customer:Barny Mezoff  | Publication:hematophyte krivu tranquilization 
-Record:6 | Customer:Barny Mezoff  | Publication:subpunctuation lacustrian subordinates 
-Record:7 | Customer:Lauber Gay  | Publication:daylighted 
-Record:8 | Customer:Seem Chaffee  | Publication:Forneys transposing photoetched serpent-god 
-Record:9 | Customer:Seem Chaffee  | Publication:pir nidifying azoturia 
-Record:10 | Customer:Deena Schreck  | Publication:convoking NZ 
-Record:11 | Customer:Deena Schreck  | Publication:bigots 
-Record:12 | Customer:Bowie Chilt  | Publication:pamphletary schuyt Madoera toxiphagi 
-Record:13 | Customer:Bowie Chilt  | Publication:magnetooptics 
-Record:14 | Customer:Heigl Evie  | Publication:literated 
-Record:15 | Customer:Heigl Evie  | Publication:makimonos Marette abumbrellar counter-company 
-Record:16 | Customer:Milton Mashe  | Publication:boylike copurify pastile 
-Record:17 | Customer:Milton Mashe  | Publication:Samsam fingerlike gapes Gouverneur 
-Record:18 | Customer:Barnum Bashemath  | Publication:Cressey 
-Record:19 | Customer:Gilder Amarillas  | Publication:Spirophyton ackees all-wrongness 
-Record:20 | Customer:Gilder Amarillas  | Publication:sirpoon 
-Record:21 | Customer:Arleta Adachi  | Publication:all-conquering peristyle 
-Record:22 | Customer:Arleta Adachi  | Publication:coled Pasteurella 
-Record:23 | Customer:Jermain Hawkie  | Publication:off-the-peg enginous palletizer nonopinionativeness 
-Record:24 | Customer:Nadaha Bouley  | Publication:caba 
-Record:25 | Customer:Nadaha Bouley  | Publication:double-mindedly dense-flowered hepaticoenterostomies nontransmittance 
-Record:26 | Customer:Saffian Sundstrom  | Publication:crack kukris interworry 
-Record:27 | Customer:Grayson Keithley  | Publication:guarantying cross-over Tallou pharmacolite 
-Record:28 | Customer:Grayson Keithley  | Publication:coruscated Dictynna 
-Record:29 | Customer:Welby Mattson  | Publication:Lonni gentleman-jailer RFD 
-Record:30 | Customer:Welby Mattson  | Publication:government antevenient 
-Record:31 | Customer:Buchalter Freddi  | Publication:invoicing slip-sheet oy 
-Record:32 | Customer:Caressa Sutton  | Publication:standard-bearership dors 
-Record:33 | Customer:Alarick Robb  | Publication:castoffs Alternaria pastilled 
-Record:34 | Customer:Gearhart Fahy  | Publication:Aborigine hemiolas amidols Klehm 
-Record:35 | Customer:Danella Marline  | Publication:Aspia perotic hoverport in-law 
-Record:36 | Customer:Danella Marline  | Publication:distracting emplane instigators self-safety 
-Record:37 | Customer:Jedlicka Goodrich  | Publication:unapprehensively pseudomythical 
-Record:38 | Customer:Jedlicka Goodrich  | Publication:slender-nosed Chico req. playstead 
-Record:39 | Customer:Brad Durston  | Publication:mishmoshes hydroperiod homelier 
-Record:40 | Customer:Brad Durston  | Publication:philosophisation bogberries pregrading platitude 
-Record:41 | Customer:Nevai Dyanna  | Publication:lady's Tinamidae bone-tired anker 
-Record:42 | Customer:Nevai Dyanna  | Publication:redissolubly oenometer epulis 
-Record:43 | Customer:Evita Fraze  | Publication:irreconcilement damenization 
-Record:44 | Customer:Haerr Zedekiah  | Publication:nanosoma unaided hilloed 
-Record:45 | Customer:Viddah Gavra  | Publication:Audley rawnie 
-Record:46 | Customer:Viddah Gavra  | Publication:reincarnations kanga 
+Record:0 | Customer:Almeida Dominica  | Publication:allactite stumblebum Olonetsian scratchlike 
+Record:1 | Customer:Almeida Dominica  | Publication:crafts 
+Record:2 | Customer:Al Huang  | Publication:indigestibilty 
+Record:3 | Customer:Osric Gaskill  | Publication:complex rope-pulling downrushing hait 
+Record:4 | Customer:Osric Gaskill  | Publication:tsarism monogerm metagnath trajection 
+Record:5 | Customer:Hizar Georgy  | Publication:bractless trou-de-coup employing 
+Record:6 | Customer:Hizar Georgy  | Publication:sittings attent half-defiant eyewaters 
+Record:7 | Customer:Skell Teodoor  | Publication:concretional 
+Record:8 | Customer:Skell Teodoor  | Publication:migniardize Gavette sliding-gear extima 
+Record:9 | Customer:Files Ugo  | Publication:archcritic Mitchellsburg clownage ketohexose 
+Record:10 | Customer:Files Ugo  | Publication:lifesomeness 
+Record:11 | Customer:Cumings Rorie  | Publication:hypochondriac sin-absolving 
+Record:12 | Customer:Cumings Rorie  | Publication:Melampus unactually curarize dough-kneading 
+Record:13 | Customer:Johny Felise  | Publication:presphygmic desmarestiaceous ilmenorutile olio 
+Record:14 | Customer:Ebbarta Harriott  | Publication:infliction disinteresting 
+Record:15 | Customer:Ebbarta Harriott  | Publication:flat-billed hypnotisation postvaccinal hexamerous 
+Record:16 | Customer:Teressa Bille  | Publication:subnote Physciaceae Siluridae 
+Record:17 | Customer:Adamik Kawasaki  | Publication:tharm stentorphone 
+Record:18 | Customer:Sybille Ardelia  | Publication:hewer semicellulose spathic premonitor 
+Record:19 | Customer:Herschel Hirst  | Publication:McCollum 
+Record:20 | Customer:Herschel Hirst  | Publication:teller-out tweezers Koussevitzky 
+Record:21 | Customer:Darsey Doty  | Publication:schlepped clincher-built 
+Record:22 | Customer:Darsey Doty  | Publication:Petioliventres cowgirls 
+Record:23 | Customer:Craner Menzies  | Publication:Hilltown 
+Record:24 | Customer:Craner Menzies  | Publication:phenakism lavanderos 
+Record:25 | Customer:Meredithe Colb  | Publication:androus grissen kinesiometer 
+Record:26 | Customer:Patterman Gizela  | Publication:aurophobia Hamhung Apotactic 
+Record:27 | Customer:Erlinna Barbaresi  | Publication:Lutoslawski 
+Record:28 | Customer:Epstein Cummins  | Publication:revalued fibrocystic allness 
+Record:29 | Customer:Epstein Cummins  | Publication:gigaherz cose 
+Record:30 | Customer:Cuttler Harriott  | Publication:Timaliidae cuspule 
+Record:31 | Customer:Lemuelah Genevieve  | Publication:definite hypostasizing N.S. Lincolnshire 
+Record:32 | Customer:Lemuelah Genevieve  | Publication:hairychested Pro-alabaman indigestedness butlerage 
+Record:33 | Customer:Alarise Sol  | Publication:forkless theol. 
+Record:34 | Customer:Alarise Sol  | Publication:noncorporeal Eada irrelapsable 
+Record:35 | Customer:Constantino Izaak  | Publication:archcritic Mitchellsburg clownage ketohexose 
+Record:36 | Customer:Constantino Izaak  | Publication:peristerite helmless absented Bosporus 
+Record:37 | Customer:Pride Bernj  | Publication:aspidistras schoolgirl breakermen 
+Record:38 | Customer:Francisca Marvella  | Publication:pantheistically collophore 
+Record:39 | Customer:Ebbarta Peursem  | Publication:bonity two-dollar lyricising astrographer 
+Record:40 | Customer:Ebbarta Peursem  | Publication:mouldering tiltyards 
+Record:41 | Customer:Stepha Tirza  | Publication:IT&T 
+Record:42 | Customer:Stepha Tirza  | Publication:nonanticipatively Coggan Alcalde 
+Record:43 | Customer:Fritzie Kristofer  | Publication:jumpy prosubmission 
+Record:44 | Customer:Crooks Kale  | Publication:Hyades three-course aeration 
+Record:45 | Customer:Debera Arnulfo  | Publication:springboards Monopoly shopkeeper melioristic 
+Record:46 | Customer:Kandy On  | Publication:nadirs metagelatin scurviest Bartolomeo 
+Record:47 | Customer:Charleen Houghton  | Publication:strontic al- predetermination 
+Record:48 | Customer:Charleen Houghton  | Publication:calciphilia Anglo-danish rantipole 
+Record:49 | Customer:Powers Theda  | Publication:bet. papayan sensifacient 
+Record:50 | Customer:Powers Theda  | Publication:barristership bigotish swellhead 
+Record:51 | Customer:Phia Sackville  | Publication:metamorphosis narrations mesitine toll-house 
+Record:52 | Customer:Gertie Nims  | Publication:Piankashaw tubulet astomous pedantical 
+Record:53 | Customer:Gertie Nims  | Publication:rumbelow redeemless spermophytic 
+Record:54 | Customer:Arnaud Chari  | Publication:characterologist keratophyre Datuk 

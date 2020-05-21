@@ -2,12 +2,15 @@
 #include <fstream>
 #include "Library.h"
 #include "Person.h"
+#include <chrono>
+using namespace std::chrono;
 
 int main() {
-
+    auto start = high_resolution_clock::now();
     Library lib;
     std::cout <<lib.isAvailableByAuthor("TestAuthor") << std::endl;
-    std::cout << lib.getAmount(100) << std::endl;
+    std::cout << lib.isAvailableByName("TestBook")<< std::endl;
+    std::cout << lib.getAmount(1000) << std::endl;
 
     NameGenerator gen("../data/names.txt");
     std::vector<Person> persons;
@@ -45,5 +48,9 @@ int main() {
     lib.listAllItemsEverBorrowed();
     lib.printAllPubofYear(2000);
     lib.write_transactions_to_file();
+
+    auto stop = high_resolution_clock::now();
+    auto duration = duration_cast<milliseconds>(stop - start);
+    std::cout <<"Whole Execution took: " << duration.count()<< " milliseconds" << std::endl;
     return 0;
 }
