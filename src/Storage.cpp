@@ -109,10 +109,8 @@ int Storage::getAmount(int ID) {
 std::vector<Borrowable *> Storage::getAllPubOfYear(int year) {
     auto test = std::pair(year, nullptr);
     std::vector<Borrowable *> to_return;
-    auto low = publicationYearContainer.lower_bound(test);
-    auto high = publicationYearContainer.upper_bound(test);
-    std::multiset <std::pair<int,Borrowable*>> :: iterator itr;
-    for(itr=publicationYearContainer.lower_bound(test);itr!=publicationYearContainer.upper_bound(test);++itr)
+    std::multimap <int,Borrowable*> :: iterator itr;
+    for(itr = publicationYearContainer.lower_bound(year); itr!=publicationYearContainer.upper_bound(year); ++itr)
         to_return.emplace_back(itr->second);
     return to_return;
 }

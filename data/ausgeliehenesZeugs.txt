@@ -1,43 +1,52 @@
-Record:0 | Customer:Bysshe Giordano  | Publication:badian peucedanin Furman 
-Record:1 | Customer:Greenleaf Moir  | Publication:over-earnest Serphidae 
-Record:2 | Customer:Greenleaf Moir  | Publication:ratiocinator ghettoize 
-Record:3 | Customer:Nicoli Howell  | Publication:defer Clift paper-capped semiography 
-Record:4 | Customer:Hamann Allveta  | Publication:thrashed 
-Record:5 | Customer:Hamann Allveta  | Publication:collarinos 
-Record:6 | Customer:Morey Belloir  | Publication:hatchetman outdates prefervid all-making 
-Record:7 | Customer:Morey Belloir  | Publication:Ackerly 
-Record:8 | Customer:Fayola Rotberg  | Publication:SU noninfusibleness lornness depositaries 
-Record:9 | Customer:Griselda Adrianne  | Publication:outlying 
-Record:10 | Customer:Griselda Adrianne  | Publication:picture-dealing pensil docimasia Mazman 
-Record:11 | Customer:Janette Yacano  | Publication:currawong rusticity ever-dear stridulously 
-Record:12 | Customer:Janette Yacano  | Publication:unbeholden bedark hummeler Lagopus 
-Record:13 | Customer:Brote Cyna  | Publication:singlestep AISI diapophyses 
-Record:14 | Customer:Tore Geminius  | Publication:meshrabiyeh 
-Record:15 | Customer:Tore Geminius  | Publication:Asius intercommunal God-men mogographia 
-Record:16 | Customer:Dicks Mesics  | Publication:recoast 
-Record:17 | Customer:Dicks Mesics  | Publication:cult-title sunstone anatox 
-Record:18 | Customer:Pitzer Freedman  | Publication:gleefulness aerotechnics 
-Record:19 | Customer:Pitzer Freedman  | Publication:imaginist tensegrity 
-Record:20 | Customer:Claus Heim  | Publication:forwardest Bolshie Domenech Bosnian 
-Record:21 | Customer:Claus Heim  | Publication:ext. 
-Record:22 | Customer:Moule Huxham  | Publication:Pedicellina Karajan scholiums adoptious 
-Record:23 | Customer:Moule Huxham  | Publication:Koranic lavs lotong 
-Record:24 | Customer:Piotr Farrica  | Publication:cellarets Shiva choices 
-Record:25 | Customer:Fontana Gemoets  | Publication:stink-pot plateaulith aye-during 
-Record:26 | Customer:Nemhauser Danialah  | Publication:Dolorita imitableness fasciculation trumpet-hung 
-Record:27 | Customer:Nemhauser Danialah  | Publication:far-gleaming pre-expense 
-Record:28 | Customer:Frohne Gran  | Publication:froisse 
-Record:29 | Customer:Norvil Burnsed  | Publication:Moreta expirable time-battered argentic 
-Record:30 | Customer:Norvil Burnsed  | Publication:discerpibleness 
-Record:31 | Customer:Toomin Joelynn  | Publication:tobacconing 
-Record:32 | Customer:Downey Dagmar  | Publication:plano-concave avant-garde 
-Record:33 | Customer:Berke Blatt  | Publication:quadriplegic cephalophyma preexamination 
-Record:34 | Customer:Berke Blatt  | Publication:aggrandizing eye-peep Occidentalist 
-Record:35 | Customer:Urias Claude  | Publication:nursingly dickeybird egosyntonic sugarsweet 
-Record:36 | Customer:Urias Claude  | Publication:closemouth superweapons episthotonos Massalian 
-Record:37 | Customer:Ehlke Heti  | Publication:steady-footed rytidosis sulfureousness 
-Record:38 | Customer:Berri Abeu  | Publication:highlight Hermeticism quasi-mechanical 
-Record:39 | Customer:Berri Abeu  | Publication:classed hemoconia Transcaucasia quenite 
-Record:40 | Customer:Macomber Burch  | Publication:echini 
-Record:41 | Customer:Brander Alroi  | Publication:applicability preaging pursuit's 
-Record:42 | Customer:Brander Alroi  | Publication:ethmopalatal acquaintanceships 
+Record:0 | Customer:Armanda Arlo  | Publication:subgenuses picro- downwith 
+Record:1 | Customer:Armanda Arlo  | Publication:Yahata 
+Record:2 | Customer:Fenny Coheman  | Publication:Pectunculus priest-hating ravenousness DHL 
+Record:3 | Customer:Fenny Coheman  | Publication:osmio- 
+Record:4 | Customer:Jacinthe Minette  | Publication:nonegregiousness hog-nose intransferrable 
+Record:5 | Customer:Hansiain Clarie  | Publication:damnifying 
+Record:6 | Customer:Hansiain Clarie  | Publication:Dagon subscapular naphthinduline 
+Record:7 | Customer:Hays Thedric  | Publication:Tannenberg 
+Record:8 | Customer:Hays Thedric  | Publication:Rangely Alexandra 
+Record:9 | Customer:Fortune Hitchcock  | Publication:lath 
+Record:10 | Customer:Arley Liris  | Publication:reindoctrinate ravin interbrigade 
+Record:11 | Customer:Moureaux Felicdad  | Publication:multipartite margravial 
+Record:12 | Customer:Moureaux Felicdad  | Publication:forecabin 
+Record:13 | Customer:Cicero Quill  | Publication:enkolpia extra-alimentary 
+Record:14 | Customer:Cicero Quill  | Publication:reoffering 
+Record:15 | Customer:Chessy Krystal  | Publication:overblithe desolations frowsty bagwigged 
+Record:16 | Customer:Lukash Brownson  | Publication:coexisted anticapital distinctive Mahayanism 
+Record:17 | Customer:Spector Balling  | Publication:Omidyar pruinate composant nonsuccessfully 
+Record:18 | Customer:Idell Behlke  | Publication:Ladakhi Beaston incongruently 
+Record:19 | Customer:Idell Behlke  | Publication:Stephani praxes Quincy sharpling 
+Record:20 | Customer:Tiersten Igenia  | Publication:knez countercompony 
+Record:21 | Customer:Tiersten Igenia  | Publication:aposoro 
+Record:22 | Customer:Gianni Macur  | Publication:tallowy nondefinitively boatloader duocosane 
+Record:23 | Customer:Gretel Hollerman  | Publication:idealness 
+Record:24 | Customer:Gretel Hollerman  | Publication:gulinular Husk 
+Record:25 | Customer:Marcell Ramses  | Publication:defiled Leporis Holothurioidea 
+Record:26 | Customer:Marcell Ramses  | Publication:bird's-nest harlequinery 
+Record:27 | Customer:Hilarius Strage  | Publication:cervicolumbar mediocracy coagulum banteringly 
+Record:28 | Customer:Honor Humble  | Publication:cheroots 
+Record:29 | Customer:Honor Humble  | Publication:omostegite Armil antilaborist Jooss 
+Record:30 | Customer:Dillon Breed  | Publication:ectogenesis 
+Record:31 | Customer:Haslett Bernj  | Publication:motivelessly hyperperfection 
+Record:32 | Customer:Haslett Bernj  | Publication:endobiotic slideproof 
+Record:33 | Customer:Lewellen Garibold  | Publication:saddish Multilith reacquisition hylotheist 
+Record:34 | Customer:Hibbert Thorn  | Publication:interrogation preventuring 
+Record:35 | Customer:Hibbert Thorn  | Publication:architecturalist hanch FAST superlatively 
+Record:36 | Customer:Elmo Allys  | Publication:gyttja cutleriaceous 
+Record:37 | Customer:Elmo Allys  | Publication:ovoli celibates roughtail 
+Record:38 | Customer:Shepard Cornew  | Publication:rhizomorphous Myiarchus strake retinacular 
+Record:39 | Customer:Ridglee Azarcon  | Publication:Hillary 
+Record:40 | Customer:Gherlein Tongue  | Publication:bemaddens groved strathspeys 
+Record:41 | Customer:LaBaw Bull  | Publication:hard-featured sextette naturalise uncambered 
+Record:42 | Customer:Cleary Tedda  | Publication:pedi- entases 
+Record:43 | Customer:Greenman Haye  | Publication:anywhere nonconsumptive seventeenthly senses 
+Record:44 | Customer:Faxen Dusty  | Publication:guajira madreporitic breards continuations 
+Record:45 | Customer:Faxen Dusty  | Publication:dif- 
+Record:46 | Customer:Murage Selena  | Publication:impletion mock-heroically BPC 
+Record:47 | Customer:Skolnik Caralie  | Publication:south-southerly depayse petasoses 
+Record:48 | Customer:Anglo Vassaux  | Publication:cenobite Middlebrook divulsed ridge-tile 
+Record:49 | Customer:Anglo Vassaux  | Publication:self-spitted 
+Record:50 | Customer:Perkins Ashwell  | Publication:Tannenberg 
+Record:51 | Customer:Fabron Akerley  | Publication:dinoflagellate 

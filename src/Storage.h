@@ -32,7 +32,7 @@ private:
     int globalIDcounter=0;
 
 protected:
-    std::multiset<std::pair<int,Borrowable*>> publicationYearContainer;
+    std::multimap<int,Borrowable*> publicationYearContainer;
     std::map<int,Borrowable*> allItems;
     Borrowable* getItem(int ID);
     void placeBack(int ID);
