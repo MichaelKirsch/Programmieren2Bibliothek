@@ -16,6 +16,8 @@ give back, and deregister
 
 -Listing of all Items and Transactions
 
+-Writing all the Records to a file
+
 ## Structure
 
 ![OUTPUT](docs/Library.png)
