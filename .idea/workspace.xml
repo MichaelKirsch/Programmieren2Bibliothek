@@ -13,13 +13,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78574ddd-4eb1-44ee-98d6-6a17c1c6ba32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Library.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ausgeliehenesZeugs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Programmieren2Bibliothek.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Programmieren2Bibliothek.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Library.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Library.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libgcc_s_seh-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libstdc++-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libwinpthread-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Borrowable.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Borrowable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Items.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Library.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Storage.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Storage.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Storage.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Storage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +39,7 @@
     <elmProjects />
     <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -45,8 +51,17 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
@@ -76,6 +91,9 @@
       <workItem from="1588246248756" duration="16401000" />
       <workItem from="1588324963161" duration="1894000" />
       <workItem from="1588337524264" duration="4831000" />
+      <workItem from="1589723159649" duration="5330000" />
+      <workItem from="1589802511417" duration="1546000" />
+      <workItem from="1590052114961" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="generators and all that stuff">
       <created>1588258480366</created>
@@ -139,6 +157,10 @@
     </state>
     <state x="583" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588346660894" />
     <state x="583" y="0" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588262127363" />
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1589723189169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="275" key="FileChooserDialogImpl/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589723189169" />
     <state x="796" y="422" key="Github.ShareDialog" timestamp="1588246261460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -147,30 +169,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="762" y="133" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588246268001" />
-    <state width="1877" height="8" key="GridCell.Tab.0.bottom" timestamp="1588347231937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="256" key="GridCell.Tab.0.bottom" timestamp="1590054769235">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="128" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1588330167441" />
     <state width="1877" height="8" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588347231937" />
+    <state width="1878" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1590054769235" />
     <state width="1877" height="152" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588263463179" />
-    <state width="1877" height="8" key="GridCell.Tab.0.center" timestamp="1588347231937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="256" key="GridCell.Tab.0.bottom/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589806292911" />
+    <state width="1878" height="256" key="GridCell.Tab.0.center" timestamp="1590054769235">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="128" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1588330167441" />
     <state width="1877" height="8" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588347231937" />
+    <state width="1878" height="256" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1590054769235" />
     <state width="1877" height="152" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588263463179" />
-    <state width="1877" height="8" key="GridCell.Tab.0.left" timestamp="1588347231937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="256" key="GridCell.Tab.0.center/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589806292911" />
+    <state width="1878" height="256" key="GridCell.Tab.0.left" timestamp="1590054769235">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="128" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1588330167440" />
     <state width="1877" height="8" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588347231937" />
+    <state width="1878" height="256" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1590054769235" />
     <state width="1877" height="152" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588263463179" />
-    <state width="1877" height="8" key="GridCell.Tab.0.right" timestamp="1588347231937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="256" key="GridCell.Tab.0.left/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589806292910" />
+    <state width="1878" height="256" key="GridCell.Tab.0.right" timestamp="1590054769235">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="128" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1588330167441" />
     <state width="1877" height="8" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588347231937" />
+    <state width="1878" height="256" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1590054769235" />
     <state width="1877" height="152" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588263463179" />
+    <state width="1878" height="256" key="GridCell.Tab.0.right/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589806292911" />
     <state width="1877" height="152" key="GridCell.Tab.1.bottom" timestamp="1588346947607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -201,6 +231,10 @@
     </state>
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588346662476" />
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588262002503" />
+    <state x="4560" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590054938956">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4560" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1590054938956" />
     <state x="768" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588257239426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

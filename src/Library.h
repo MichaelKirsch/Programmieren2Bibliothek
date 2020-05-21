@@ -3,7 +3,7 @@
 #pragma once
 #include "Storage.h"
 #include "Person.h"
-
+#include <fstream>
 struct Record
 {
     Record(Person* i_pers,int i_ID ,int recNbr): person(i_pers),
@@ -23,12 +23,14 @@ public:
     void giveBack(Person& person);
     void listNotGivenBackItems();
     void listAllItemsEverBorrowed();
+    Person* getCustomerByPassportID(int id);
+    void write_transactions_to_file();
     ~Library() = default;
-
 private:
     int globalRecordCounter =0;
     bool checkIfCustomer(Person& persToCheck);
     std::vector<Person*> customers;
+    std::map<int,Person*> customersbyID;
     std::map<int,Record> recordsOfAllTransactions;
 };
 

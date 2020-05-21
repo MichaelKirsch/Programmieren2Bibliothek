@@ -12,6 +12,7 @@ void Library::registerCustomer(Person &person) {
         if(checkIfCustomer(person))
             return;
     customers.emplace_back(&person);
+    customersbyID.insert(std::make_pair(person.passport_nbr,&person));
     std::cout << person.m_name << " registered at the lib" << std::endl;
 }
 
@@ -89,5 +90,20 @@ void Library::listAllItemsEverBorrowed() {
     {
             std::cout << "Record: " << rec.second.person->m_name << " borrowed "
                       << allItems.at(rec.second.ID_borrowed)->m_name << std::endl;
+    }
+}
+
+Person *Library::getCustomerByPassportID(int id) {
+    if(customersbyID.find(id)!=customersbyID.end())
+        return customersbyID.at(id);
+}
+
+void Library::write_transactions_to_file() {
+    std::ofstream myfile("../data/ausgelieheneszeugs.txt",std::ofstream::out | std::ofstream::trunc); // truncate to delete old stuff
+    if(!myfile.is_open())
+        throw std::runtime_error("Yo das recordfile kann nicht geöffnet werden !");
+    for(auto& rec:recordsOfAllTransactions)
+    {
+        myfile<< "Record:" << rec.first << " | Customer:" << rec.second.person->m_name << " | Publication:" << getItem(rec.second.ID_borrowed)->m_name << "\n";
     }
 }
