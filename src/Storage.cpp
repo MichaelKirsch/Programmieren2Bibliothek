@@ -117,10 +117,12 @@ std::vector<Borrowable *> Storage::getAllPubOfYear(int year) {
 
 void Storage::printAllPubofYear(int year) {
     auto t = getAllPubOfYear(year);
-    std::cout << "All Books of " << year << ":" << std::endl;
+    std::cout << "Lsiting all "<< t.size() << " Books of year " << year << ":" << std::endl;
+    int iterator = 1;
     for(auto& s:t)
     {
-        std::cout << s->m_name << std::endl;
+        std::cout << iterator << ":" << s->m_name << std::endl;
+        iterator++;
     }
     std::cout << "Done!" << std::endl;
 }

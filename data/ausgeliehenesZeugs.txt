@@ -1,52 +1,47 @@
-Record:0 | Customer:Armanda Arlo  | Publication:subgenuses picro- downwith 
-Record:1 | Customer:Armanda Arlo  | Publication:Yahata 
-Record:2 | Customer:Fenny Coheman  | Publication:Pectunculus priest-hating ravenousness DHL 
-Record:3 | Customer:Fenny Coheman  | Publication:osmio- 
-Record:4 | Customer:Jacinthe Minette  | Publication:nonegregiousness hog-nose intransferrable 
-Record:5 | Customer:Hansiain Clarie  | Publication:damnifying 
-Record:6 | Customer:Hansiain Clarie  | Publication:Dagon subscapular naphthinduline 
-Record:7 | Customer:Hays Thedric  | Publication:Tannenberg 
-Record:8 | Customer:Hays Thedric  | Publication:Rangely Alexandra 
-Record:9 | Customer:Fortune Hitchcock  | Publication:lath 
-Record:10 | Customer:Arley Liris  | Publication:reindoctrinate ravin interbrigade 
-Record:11 | Customer:Moureaux Felicdad  | Publication:multipartite margravial 
-Record:12 | Customer:Moureaux Felicdad  | Publication:forecabin 
-Record:13 | Customer:Cicero Quill  | Publication:enkolpia extra-alimentary 
-Record:14 | Customer:Cicero Quill  | Publication:reoffering 
-Record:15 | Customer:Chessy Krystal  | Publication:overblithe desolations frowsty bagwigged 
-Record:16 | Customer:Lukash Brownson  | Publication:coexisted anticapital distinctive Mahayanism 
-Record:17 | Customer:Spector Balling  | Publication:Omidyar pruinate composant nonsuccessfully 
-Record:18 | Customer:Idell Behlke  | Publication:Ladakhi Beaston incongruently 
-Record:19 | Customer:Idell Behlke  | Publication:Stephani praxes Quincy sharpling 
-Record:20 | Customer:Tiersten Igenia  | Publication:knez countercompony 
-Record:21 | Customer:Tiersten Igenia  | Publication:aposoro 
-Record:22 | Customer:Gianni Macur  | Publication:tallowy nondefinitively boatloader duocosane 
-Record:23 | Customer:Gretel Hollerman  | Publication:idealness 
-Record:24 | Customer:Gretel Hollerman  | Publication:gulinular Husk 
-Record:25 | Customer:Marcell Ramses  | Publication:defiled Leporis Holothurioidea 
-Record:26 | Customer:Marcell Ramses  | Publication:bird's-nest harlequinery 
-Record:27 | Customer:Hilarius Strage  | Publication:cervicolumbar mediocracy coagulum banteringly 
-Record:28 | Customer:Honor Humble  | Publication:cheroots 
-Record:29 | Customer:Honor Humble  | Publication:omostegite Armil antilaborist Jooss 
-Record:30 | Customer:Dillon Breed  | Publication:ectogenesis 
-Record:31 | Customer:Haslett Bernj  | Publication:motivelessly hyperperfection 
-Record:32 | Customer:Haslett Bernj  | Publication:endobiotic slideproof 
-Record:33 | Customer:Lewellen Garibold  | Publication:saddish Multilith reacquisition hylotheist 
-Record:34 | Customer:Hibbert Thorn  | Publication:interrogation preventuring 
-Record:35 | Customer:Hibbert Thorn  | Publication:architecturalist hanch FAST superlatively 
-Record:36 | Customer:Elmo Allys  | Publication:gyttja cutleriaceous 
-Record:37 | Customer:Elmo Allys  | Publication:ovoli celibates roughtail 
-Record:38 | Customer:Shepard Cornew  | Publication:rhizomorphous Myiarchus strake retinacular 
-Record:39 | Customer:Ridglee Azarcon  | Publication:Hillary 
-Record:40 | Customer:Gherlein Tongue  | Publication:bemaddens groved strathspeys 
-Record:41 | Customer:LaBaw Bull  | Publication:hard-featured sextette naturalise uncambered 
-Record:42 | Customer:Cleary Tedda  | Publication:pedi- entases 
-Record:43 | Customer:Greenman Haye  | Publication:anywhere nonconsumptive seventeenthly senses 
-Record:44 | Customer:Faxen Dusty  | Publication:guajira madreporitic breards continuations 
-Record:45 | Customer:Faxen Dusty  | Publication:dif- 
-Record:46 | Customer:Murage Selena  | Publication:impletion mock-heroically BPC 
-Record:47 | Customer:Skolnik Caralie  | Publication:south-southerly depayse petasoses 
-Record:48 | Customer:Anglo Vassaux  | Publication:cenobite Middlebrook divulsed ridge-tile 
-Record:49 | Customer:Anglo Vassaux  | Publication:self-spitted 
-Record:50 | Customer:Perkins Ashwell  | Publication:Tannenberg 
-Record:51 | Customer:Fabron Akerley  | Publication:dinoflagellate 
+Record:0 | Customer:Hagar Eleen  | Publication:Leclaire hellhag Lynnworth 
+Record:1 | Customer:Hagar Eleen  | Publication:murre saintish antigorite 
+Record:2 | Customer:Lucas Shelden  | Publication:asymtote 
+Record:3 | Customer:Ethelred Ancelin  | Publication:red-roan circumpentagon 
+Record:4 | Customer:Shanleigh Adkins  | Publication:dreary-minded Gillette 
+Record:5 | Customer:Barny Mezoff  | Publication:hematophyte krivu tranquilization 
+Record:6 | Customer:Barny Mezoff  | Publication:subpunctuation lacustrian subordinates 
+Record:7 | Customer:Lauber Gay  | Publication:daylighted 
+Record:8 | Customer:Seem Chaffee  | Publication:Forneys transposing photoetched serpent-god 
+Record:9 | Customer:Seem Chaffee  | Publication:pir nidifying azoturia 
+Record:10 | Customer:Deena Schreck  | Publication:convoking NZ 
+Record:11 | Customer:Deena Schreck  | Publication:bigots 
+Record:12 | Customer:Bowie Chilt  | Publication:pamphletary schuyt Madoera toxiphagi 
+Record:13 | Customer:Bowie Chilt  | Publication:magnetooptics 
+Record:14 | Customer:Heigl Evie  | Publication:literated 
+Record:15 | Customer:Heigl Evie  | Publication:makimonos Marette abumbrellar counter-company 
+Record:16 | Customer:Milton Mashe  | Publication:boylike copurify pastile 
+Record:17 | Customer:Milton Mashe  | Publication:Samsam fingerlike gapes Gouverneur 
+Record:18 | Customer:Barnum Bashemath  | Publication:Cressey 
+Record:19 | Customer:Gilder Amarillas  | Publication:Spirophyton ackees all-wrongness 
+Record:20 | Customer:Gilder Amarillas  | Publication:sirpoon 
+Record:21 | Customer:Arleta Adachi  | Publication:all-conquering peristyle 
+Record:22 | Customer:Arleta Adachi  | Publication:coled Pasteurella 
+Record:23 | Customer:Jermain Hawkie  | Publication:off-the-peg enginous palletizer nonopinionativeness 
+Record:24 | Customer:Nadaha Bouley  | Publication:caba 
+Record:25 | Customer:Nadaha Bouley  | Publication:double-mindedly dense-flowered hepaticoenterostomies nontransmittance 
+Record:26 | Customer:Saffian Sundstrom  | Publication:crack kukris interworry 
+Record:27 | Customer:Grayson Keithley  | Publication:guarantying cross-over Tallou pharmacolite 
+Record:28 | Customer:Grayson Keithley  | Publication:coruscated Dictynna 
+Record:29 | Customer:Welby Mattson  | Publication:Lonni gentleman-jailer RFD 
+Record:30 | Customer:Welby Mattson  | Publication:government antevenient 
+Record:31 | Customer:Buchalter Freddi  | Publication:invoicing slip-sheet oy 
+Record:32 | Customer:Caressa Sutton  | Publication:standard-bearership dors 
+Record:33 | Customer:Alarick Robb  | Publication:castoffs Alternaria pastilled 
+Record:34 | Customer:Gearhart Fahy  | Publication:Aborigine hemiolas amidols Klehm 
+Record:35 | Customer:Danella Marline  | Publication:Aspia perotic hoverport in-law 
+Record:36 | Customer:Danella Marline  | Publication:distracting emplane instigators self-safety 
+Record:37 | Customer:Jedlicka Goodrich  | Publication:unapprehensively pseudomythical 
+Record:38 | Customer:Jedlicka Goodrich  | Publication:slender-nosed Chico req. playstead 
+Record:39 | Customer:Brad Durston  | Publication:mishmoshes hydroperiod homelier 
+Record:40 | Customer:Brad Durston  | Publication:philosophisation bogberries pregrading platitude 
+Record:41 | Customer:Nevai Dyanna  | Publication:lady's Tinamidae bone-tired anker 
+Record:42 | Customer:Nevai Dyanna  | Publication:redissolubly oenometer epulis 
+Record:43 | Customer:Evita Fraze  | Publication:irreconcilement damenization 
+Record:44 | Customer:Haerr Zedekiah  | Publication:nanosoma unaided hilloed 
+Record:45 | Customer:Viddah Gavra  | Publication:Audley rawnie 
+Record:46 | Customer:Viddah Gavra  | Publication:reincarnations kanga 
